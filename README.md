@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on be hired and learn a lot in the internship
 
-🌱 I’m currently learning C / HTML5 & CSS3 
+🌱 I’m currently learning C / Python / HTML5 & CSS3 
 
 🤝 I’m looking for help with learn to program  🖥 
 
